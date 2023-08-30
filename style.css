@@ -1,0 +1,127 @@
+@font-face{
+    font-family: rayyan;
+    src: url(./Cinzel-VariableFont_wght.ttf);
+}
+/* .rt{
+    text-indent: 700px;
+    font-size: 25px;
+    color: red;
+    te
+}
+
+
+
+
+
+.tr{
+    text-align: center;
+    font-family: rayyan;
+    font-size: 35px;
+    text-transform: uppercase;
+    
+}
+.ty{
+    text-indent: 500px;
+    font-family: rayyan;
+    
+} */
+
+.as{
+    width: 1350px;
+    height: 100%;
+    border: 2px solid green;
+    
+     
+}
+.se{
+     text-indent: 650px;
+    text-transform: uppercase;
+    font-family: rayyan;
+    color: red;
+}
+.sa{
+    text-align: center;
+    font-size: 55px;
+    font-family: rayyan;
+    
+}
+.fg{
+    text-align: center;
+    font-size: 20px;
+}
+.hj{
+    text-align: center;
+    font-family: rayyan;
+}
+a{
+    text-decoration: none;
+}
+.hj:hover,:focus{
+    color: brown;
+    
+}
+.hj:active{
+    color:chocolate;
+    text-decoration: ;
+}
+.ka:hover{
+    font-size: 17px;
+    color: blue;
+    text-decoration: underline;
+    background-color: rgba(0, 0, 255, 0.13);
+}
+.kb:hover{
+    font-size: 17px;
+    color: blue;
+    text-decoration: underline;
+    background-color: rgba(0, 0, 255, 0.13);
+}
+.kc:hover{
+    font-size: 17px;
+    color: blue;
+    text-decoration: underline;
+    background-color: rgba(0, 0, 255, 0.13);
+}
+.kd:hover{
+    font-size: 17px;
+    color: blue;
+    text-decoration: underline;
+    background-color: rgba(0, 0, 255, 0.13);
+}
+.ke:hover{
+    font-size: 17px;
+    color: blue;
+    text-decoration: underline;
+    background-color: rgba(0, 0, 255, 0.13);
+}
+.kf:hover{
+    font-size: 17px;
+    color: blue;
+    text-decoration: underline;
+    background-color: rgba(0, 0, 255, 0.13);
+}
+.yu{
+    width: 1300px;
+    height: 100%;
+    border: 1px solid wheat;
+    margin-left: 40px;
+    margin:10px;
+    padding: 10px;
+}
+.uy{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform:lowercase;
+    font-size: 30px;
+}
+img{
+    width: 100%;
+}
+.yh{
+    text-transform: uppercase;
+}
+.wr{
+    width:2%;
+}
+.we{
+    width: 3.5%;
+}
